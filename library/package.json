@@ -1,5 +1,5 @@
 {
-  "name": "@future-widget-library/react-use-on-every-update",
+  "name": "@future-widget-lab/react-use-on-every-update",
   "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
