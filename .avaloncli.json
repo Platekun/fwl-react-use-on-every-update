@@ -1,0 +1,5 @@
+{
+  "artifact": "library",
+  "artifactName": "fwl-react-use-on-every-update",
+  "cicd": "github-actions"
+}
